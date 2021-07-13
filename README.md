@@ -1,3 +1,5 @@
+### Hi there 👋
+
 ## Entusiasta da tecnologia em transição de carreira.
 
 #### Matriculada no curso de Análise e Desenvolvimento de Sistemas pela Anhanguera Educacional (conclusão prevista para Jun/2023). 
@@ -17,5 +19,12 @@ A ausência de maiores habilidades técnicas eu compenso com muita vontade de ap
 Soft-skills: Agilidade de aprendizagem, disciplina, pensamento criativo, empatia, dedicação. 
 
 Possuo inglês avançado. Realizei intercâmbio para aperfeiçoamento do idioma na Erin School em Dublin- Irlanda. 
+
+
+[![Linkedin Badge](https://img.shields.io/badge/-Diego%20Fernandes-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.https://www.linkedin.com/in/helen-de-carva/)](https://www.https://www.linkedin.com/in/helen-de-carva/) 
+
+[![Gmail Badge](https://img.shields.io/badge/-diego.schell.f@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:helendecarva@gmail.com)](mailto:helendecarva@gmail.com)
+
+[![Twitter Badge](https://img.shields.io/badge/-@dieegosf-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/ahelenca)](https://twitter.com/ahelenca) 
 
 

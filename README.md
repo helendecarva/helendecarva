@@ -1,6 +1,6 @@
-##Entusiasta da tecnologia em transição de carreira.
+## Entusiasta da tecnologia em transição de carreira.
 
-#Matriculada no curso de Análise e Desenvolvimento de Sistemas pela Anhanguera Educacional (conclusão prevista para Jun/2023). Possuo graduação completa em Nutrição. 
+# Matriculada no curso de Análise e Desenvolvimento de Sistemas pela Anhanguera Educacional (conclusão prevista para Jun/2023). Possuo graduação completa em Nutrição. 
 
 🚀Fiz parte da 8º turma do curso online Eu ProgrAmo da PrograMaria com foco em Desenvolvimento Front-End com bolsa destinada à mulheres negras. 
 

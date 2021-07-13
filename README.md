@@ -21,7 +21,7 @@ Soft-skills: Agilidade de aprendizagem, disciplina, pensamento criativo, empatia
 Possuo inglês avançado. Realizei intercâmbio para aperfeiçoamento do idioma na Erin School em Dublin- Irlanda. 
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Helen%20Carvalho-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.https://www.linkedin.com/in/helen-de-carva/)](https://www.https://www.linkedin.com/in/helen-de-carva/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Helen%20Carvalho-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.https://www.linkedin.com/in/helen-de-carva/)](https://www.https://www.linkedin.com/in/helen-de-carva/) 
 
 [![Gmail Badge](https://img.shields.io/badge/-helendecarva@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:helendecarva@gmail.com)](mailto:helendecarva@gmail.com)
 

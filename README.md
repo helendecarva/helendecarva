@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 ### 👩🏿‍💻 Entusiasta da tecnologia em transição de carreira.
 

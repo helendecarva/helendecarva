@@ -21,10 +21,10 @@ Soft-skills: Agilidade de aprendizagem, disciplina, pensamento criativo, empatia
 Possuo inglês avançado. Realizei intercâmbio para aperfeiçoamento do idioma na Erin School em Dublin- Irlanda. 
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Diego%20Fernandes-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.https://www.linkedin.com/in/helen-de-carva/)](https://www.https://www.linkedin.com/in/helen-de-carva/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Helen%20Carvalho-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.https://www.linkedin.com/in/helen-de-carva/)](https://www.https://www.linkedin.com/in/helen-de-carva/) 
 
-[![Gmail Badge](https://img.shields.io/badge/-diego.schell.f@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:helendecarva@gmail.com)](mailto:helendecarva@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-helendecarva@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:helendecarva@gmail.com)](mailto:helendecarva@gmail.com)
 
-[![Twitter Badge](https://img.shields.io/badge/-@dieegosf-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/ahelenca)](https://twitter.com/ahelenca) 
+[![Twitter Badge](https://img.shields.io/badge/-@ahelenca-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/ahelenca)](https://twitter.com/ahelenca) 
 
 

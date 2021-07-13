@@ -16,9 +16,5 @@ Possuo inglês avançado. Realizei intercâmbio para aperfeiçoamento do idioma 
 Reach me out 👇🏿
 
 [![Linkedin Badge](https://img.shields.io/badge/-Helen%20Carvalho-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.https://www.linkedin.com/in/helen-de-carva/)](https://www.https://www.linkedin.com/in/helen-de-carva/) 
-
 [![Gmail Badge](https://img.shields.io/badge/-helendecarva@gmail.com-db4a39?style=flat-square&logo=Gmail&logoColor=white&link=mailto:helendecarva@gmail.com)](mailto:helendecarva@gmail.com)
-
 [![Twitter Badge](https://img.shields.io/badge/-@ahelenca-00acee?style=flat-square&labelColor=00acee&logo=twitter&logoColor=white&link=https://twitter.com/ahelenca)](https://twitter.com/ahelenca) 
-
-

@@ -1,6 +1,6 @@
 # Hi there 👋
 
-### 👩🏿‍💻 Entusiasta da tecnologia edo design em transição de carreira.
+### 👩🏿‍💻 Entusiasta da tecnologia e do design em transição de carreira.
 
 ##### 🎓 Cursando Design Gráfico pela Anhanguera Educacional (conclusão prevista para Dez/2022). 
 

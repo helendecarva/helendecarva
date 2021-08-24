@@ -7,6 +7,8 @@
 
 🚀Fiz parte da 8º turma do curso online Eu ProgrAmo da PrograMaria com foco em Desenvolvimento Front-End com bolsa destinada à mulheres negras 👩🏾‍🦱. 
 
+✨ Atualmente realizando a Formação em UX Design pela Mergo.
+
 A ausência de maiores habilidades técnicas eu compenso com muita vontade de aprender e constância no aprendizado e no aperfeiçoamento através da realização de diversos cursos, participação em meetup e palestras, etc. na área da tecnologia. 
 
 Possuo inglês avançado. Realizei intercâmbio para aperfeiçoamento do idioma na Erin School em Dublin- Irlanda. 
